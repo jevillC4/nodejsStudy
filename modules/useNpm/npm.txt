@@ -1,0 +1,11 @@
+install package npm
+
+sudo npm install lodash 
+
+sudo npm init
+
+sudo npm i lodash --save
+
+sudo npm install 
+
+sudo npm uninstall lodash --save
